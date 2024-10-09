@@ -1,1 +1,1 @@
-Welcome! This repository contains a series of my HTML & CSS projects.
+This repository features my HTML and CSS projects! Focused on clean design and responsive layouts.
