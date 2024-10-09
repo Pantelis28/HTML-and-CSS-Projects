@@ -1,1 +1,1 @@
-# HTML-and-CSS-Projects
+Welcome! This repository contains a series of my HTML & CSS projects
