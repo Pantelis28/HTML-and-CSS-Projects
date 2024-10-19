@@ -1,0 +1,48 @@
+title{
+	background-color:Green;
+}.font_1{
+           background-color:black;
+		   color:yellow;
+		   font-size:Large;
+		   text-align:center;
+		   font-weight:bold;
+		   
+   }
+   .font_2{
+           background-color:darkblue; 
+		   color:white;
+		   font-size:medium;
+		   text-align:center;
+   }
+   .text_1{
+           background-color:black;
+		   color:white;
+		   text-align:center;
+		   font-family: Arial, Helvetica, sans-serif;
+		   font-size: medium;
+		   
+   }
+   .Mytable, td{
+            text-align:center;
+   
+   }
+   .Mytable{
+            border: 1px solid black;
+   
+   }
+   td:hover{
+            background-color:yellow;
+			color:black;
+   }
+   tr, th{
+          background-color:black;
+		  color:cornsilk;
+   }
+   tr, td{
+          background-color: darkgreen;
+          color:white;		  
+   
+   }
+   .Mytable, h1{
+        text-shadow: #FC0 1px 0 10px;  
+   }
