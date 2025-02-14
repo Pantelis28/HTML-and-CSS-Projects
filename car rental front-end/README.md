@@ -1,0 +1,1 @@
+This is a one-page 'Car Rental' website demonstrating my front-end development skills. For the full interactive experience, including back-end functionality, check out the complete version in my JavaScript-projects repository!
